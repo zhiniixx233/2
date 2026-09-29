@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 登录 / OAuth（私有，不公开）
+auth.js
+oauth-bootstrap.js
+
+# 环境与密钥
+.env
+.env.*
+*.local.js
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
